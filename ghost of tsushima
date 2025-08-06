@@ -1,0 +1,46 @@
+Installer le jeux en pointant lexec dans l'iso montée 
+finir et copier le C..k to le folder installé 
+Executable: /home/hugo/Games/ghost-of-tsu/drive_c/Program Files (x86)/Ghost of Tsushima DIRECTORS CUT/GhostOfTsushima.exe
+
+
+lutris confs
+infos du jeu 
+          Ghost tsushima 
+Executeur  :  Wine 
+Repertoire : /home/hugo/Games/ghost-of-tsu
+
+
+
+
+options du jeux:
+Executable: /home/hugo/Games/ghost-of-tsu/drive_c/Program Files (x86)/Ghost of Tsushima DIRECTORS CUT/GhostOfTsushima.exe
+
+Chemin du prefixe 
+/home/hugo/Games/ghost-of-tsu
+
+Architecture du Préfixe 
+Auto
+
+
+Option de l'executeur
+Version de wine:
+wine-ge-8-26-x86_x64(par défaut)
+
+Gràphique
+Activer DXVK - oui 
+Version DXVK - v2.6.2(par défault)
+Activer VKD3D - oui 
+Version VKD3D - v2.14(par défault)
+Activer D3D Extras -  oui 
+Version D3D Extras - oui 
+Activer DXVK-NVAPI / DLSS - oui 
+Version DXVK NVAPI - v0.8.0
+Activer dgvoodoo2 - desactivé 
+version -  peu importe 
+
+
+Activer Esync - oui 
+Activer Fsync -oui 
+Activer AMD FSR - oui 
+Activer BattlEye Anti-Cheat - oui 
+Activer Easy Anti-Cheat - oui 
